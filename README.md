@@ -15,3 +15,5 @@ This is a simple ToDo list application where users can add, mark as complete, an
 - HTML
 - CSS
 - JavaScript
+# try it 
+git clone https://yostenalewis1.github.io/To-Do-list/to%20do%20list.html
